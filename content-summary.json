@@ -1,0 +1,46 @@
+{
+  "chapters": [
+    {
+      "number": 7,
+      "title": "Computer Animation",
+      "sections": 4,
+      "cards": 20,
+      "questions": 25
+    },
+    {
+      "number": 8,
+      "title": "Sound",
+      "sections": 6,
+      "cards": 27,
+      "questions": 33
+    },
+    {
+      "number": 9,
+      "title": "Text & Typography",
+      "sections": 4,
+      "cards": 24,
+      "questions": 30
+    },
+    {
+      "number": 10,
+      "title": "Hypermedia and Web Platform",
+      "sections": 3,
+      "cards": 19,
+      "questions": 25
+    },
+    {
+      "number": 11,
+      "title": "Multimedia Networking & Security",
+      "sections": 3,
+      "cards": 19,
+      "questions": 25
+    },
+    {
+      "number": 12,
+      "title": "Multimedia Devices",
+      "sections": 3,
+      "cards": 17,
+      "questions": 23
+    }
+  ]
+}
